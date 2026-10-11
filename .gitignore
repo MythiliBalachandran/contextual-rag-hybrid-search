@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Local vector database
+my_context_db/
+chroma/
+chroma_db/
+
+# Model caches
+.cache/
+huggingface_cache/
+models/
+
+# Jupyter
+.ipynb_checkpoints/
+
+Contextual_RAG_System_backup.ipynb
+
+# Unwanted source files
+images/contextual_rag_flow_chart.png
+rag_docs/o

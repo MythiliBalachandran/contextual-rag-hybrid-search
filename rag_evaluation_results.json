@@ -1,0 +1,43 @@
+[
+  {
+    "question": "What is machine learning?",
+    "expected_key_ideas": [
+      "learn without being explicitly programmed"
+    ],
+    "generated_answer": "Machine learning is a subfield of computer science that gives computers the ability to learn without being explicitly programmed."
+  },
+  {
+    "question": "What is a Vision Transformer?",
+    "expected_key_ideas": [
+      "image patches",
+      "transformer encoder",
+      "self-attention"
+    ],
+    "generated_answer": "A Vision Transformer (ViT) is a type of neural network architecture that uses self-attention mechanisms to process visual data, such as images. It is similar to the Transformer architecture used in natural language processing, but is designed to handle 2D images by dividing them into fixed-size patches, linearly embedding each patch, and feeding the resulting sequence of vectors to a standard Transformer encoder."
+  },
+  {
+    "question": "How does the Transformer decoder prevent attending to future positions?",
+    "expected_key_ideas": [
+      "masking",
+      "illegal connections",
+      "negative infinity",
+      "softmax"
+    ],
+    "generated_answer": "The Transformer decoder prevents attending to future positions by masking out (setting to −∞) all values in the input of the softmax which correspond to illegal connections."
+  },
+  {
+    "question": "How is self-attention used in the Transformer encoder?",
+    "expected_key_ideas": [
+      "each position",
+      "attend to all positions"
+    ],
+    "generated_answer": "Self-attention is used in the Transformer encoder as a multi-head attention mechanism, where all positions in the input sequence attend to all positions in the same sequence, allowing every position to attend over all positions in the input sequence."
+  },
+  {
+    "question": "Who won the FIFA World Cup in 1998?",
+    "expected_key_ideas": [
+      "I do not know"
+    ],
+    "generated_answer": "I do not know."
+  }
+]

@@ -1,0 +1,335 @@
+[
+  {
+    "question": "What is machine learning?",
+    "method": "Vector Search",
+    "retrieved_count": 10,
+    "sources": [
+      "Machine learning | page 1",
+      "Machine learning | page 1",
+      "Supervised learning | page 1",
+      "Supervised learning | page 1",
+      "Arthur Samuel | page 1",
+      "Arthur Samuel | page 1",
+      "Deep learning | page 1",
+      "Deep learning | page 1",
+      "Artificial intelligence | page 1",
+      "Artificial intelligence | page 1"
+    ]
+  },
+  {
+    "question": "What is machine learning?",
+    "method": "BM25",
+    "retrieved_count": 10,
+    "sources": [
+      "Errors and residuals in statistics | page 1",
+      "Causality | page 1",
+      "Artificial intelligence | page 1",
+      "Sui generis | page 1",
+      "cnn_paper.pdf | page 0",
+      "Reinforcement learning | page 1",
+      "Syllogism | page 1",
+      "Fourier transform | page 1",
+      "Bayesian network | page 1",
+      "Billboard Hot 100 | page 1"
+    ]
+  },
+  {
+    "question": "What is machine learning?",
+    "method": "Hybrid Search",
+    "retrieved_count": 14,
+    "sources": [
+      "Artificial intelligence | page 1",
+      "Machine learning | page 1",
+      "Supervised learning | page 1",
+      "Arthur Samuel | page 1",
+      "Deep learning | page 1",
+      "Errors and residuals in statistics | page 1",
+      "Causality | page 1",
+      "Sui generis | page 1",
+      "cnn_paper.pdf | page 0",
+      "Reinforcement learning | page 1",
+      "Syllogism | page 1",
+      "Fourier transform | page 1",
+      "Bayesian network | page 1",
+      "Billboard Hot 100 | page 1"
+    ]
+  },
+  {
+    "question": "What is machine learning?",
+    "method": "Hybrid + Reranking",
+    "retrieved_count": 5,
+    "sources": [
+      "Machine learning | page 1",
+      "Arthur Samuel | page 1",
+      "Deep learning | page 1",
+      "Supervised learning | page 1",
+      "cnn_paper.pdf | page 0"
+    ]
+  },
+  {
+    "question": "What is a Vision Transformer?",
+    "method": "Vector Search",
+    "retrieved_count": 10,
+    "sources": [
+      "vision_transformer.pdf | page 2",
+      "vision_transformer.pdf | page 2",
+      "vision_transformer.pdf | page 0",
+      "vision_transformer.pdf | page 0",
+      "vision_transformer.pdf | page 4",
+      "vision_transformer.pdf | page 4",
+      "attention_paper.pdf | page 2",
+      "attention_paper.pdf | page 2",
+      "vision_transformer.pdf | page 1",
+      "vision_transformer.pdf | page 1"
+    ]
+  },
+  {
+    "question": "What is a Vision Transformer?",
+    "method": "BM25",
+    "retrieved_count": 10,
+    "sources": [
+      "Causality | page 1",
+      "Sui generis | page 1",
+      "Prosopagnosia | page 1",
+      "vision_transformer.pdf | page 7",
+      "Pratidaan | page 1",
+      "Errors and residuals in statistics | page 1",
+      "vision_transformer.pdf | page 3",
+      "Scandinavia | page 1",
+      "Sewall Wright | page 1",
+      "Military intelligence | page 1"
+    ]
+  },
+  {
+    "question": "What is a Vision Transformer?",
+    "method": "Hybrid Search",
+    "retrieved_count": 15,
+    "sources": [
+      "vision_transformer.pdf | page 2",
+      "vision_transformer.pdf | page 0",
+      "vision_transformer.pdf | page 4",
+      "attention_paper.pdf | page 2",
+      "vision_transformer.pdf | page 1",
+      "Causality | page 1",
+      "Sui generis | page 1",
+      "Prosopagnosia | page 1",
+      "vision_transformer.pdf | page 7",
+      "Pratidaan | page 1",
+      "Errors and residuals in statistics | page 1",
+      "vision_transformer.pdf | page 3",
+      "Scandinavia | page 1",
+      "Sewall Wright | page 1",
+      "Military intelligence | page 1"
+    ]
+  },
+  {
+    "question": "What is a Vision Transformer?",
+    "method": "Hybrid + Reranking",
+    "retrieved_count": 5,
+    "sources": [
+      "vision_transformer.pdf | page 0",
+      "vision_transformer.pdf | page 1",
+      "vision_transformer.pdf | page 3",
+      "vision_transformer.pdf | page 7",
+      "vision_transformer.pdf | page 2"
+    ]
+  },
+  {
+    "question": "How does the Transformer decoder prevent attending to future positions?",
+    "method": "Vector Search",
+    "retrieved_count": 10,
+    "sources": [
+      "attention_paper.pdf | page 2",
+      "attention_paper.pdf | page 2",
+      "attention_paper.pdf | page 1",
+      "attention_paper.pdf | page 1",
+      "vision_transformer.pdf | page 0",
+      "vision_transformer.pdf | page 0",
+      "vision_transformer.pdf | page 2",
+      "vision_transformer.pdf | page 2",
+      "vision_transformer.pdf | page 17",
+      "vision_transformer.pdf | page 17"
+    ]
+  },
+  {
+    "question": "How does the Transformer decoder prevent attending to future positions?",
+    "method": "BM25",
+    "retrieved_count": 10,
+    "sources": [
+      "attention_paper.pdf | page 2",
+      "attention_paper.pdf | page 4",
+      "Logistic Regression | page 1",
+      "attention_paper.pdf | page 9",
+      "Taxi | page 1",
+      "vision_transformer.pdf | page 2",
+      "vision_transformer.pdf | page 19",
+      "vision_transformer.pdf | page 7",
+      "attention_paper.pdf | page 7",
+      "attention_paper.pdf | page 0"
+    ]
+  },
+  {
+    "question": "How does the Transformer decoder prevent attending to future positions?",
+    "method": "Hybrid Search",
+    "retrieved_count": 13,
+    "sources": [
+      "attention_paper.pdf | page 2",
+      "vision_transformer.pdf | page 2",
+      "attention_paper.pdf | page 1",
+      "vision_transformer.pdf | page 0",
+      "vision_transformer.pdf | page 17",
+      "attention_paper.pdf | page 4",
+      "Logistic Regression | page 1",
+      "attention_paper.pdf | page 9",
+      "Taxi | page 1",
+      "vision_transformer.pdf | page 19",
+      "vision_transformer.pdf | page 7",
+      "attention_paper.pdf | page 7",
+      "attention_paper.pdf | page 0"
+    ]
+  },
+  {
+    "question": "How does the Transformer decoder prevent attending to future positions?",
+    "method": "Hybrid + Reranking",
+    "retrieved_count": 5,
+    "sources": [
+      "attention_paper.pdf | page 2",
+      "attention_paper.pdf | page 4",
+      "vision_transformer.pdf | page 7",
+      "vision_transformer.pdf | page 17",
+      "attention_paper.pdf | page 0"
+    ]
+  },
+  {
+    "question": "How is self-attention used in the Transformer encoder?",
+    "method": "Vector Search",
+    "retrieved_count": 10,
+    "sources": [
+      "attention_paper.pdf | page 2",
+      "attention_paper.pdf | page 2",
+      "attention_paper.pdf | page 1",
+      "attention_paper.pdf | page 1",
+      "vision_transformer.pdf | page 7",
+      "vision_transformer.pdf | page 7",
+      "vision_transformer.pdf | page 19",
+      "vision_transformer.pdf | page 19",
+      "vision_transformer.pdf | page 0",
+      "vision_transformer.pdf | page 0"
+    ]
+  },
+  {
+    "question": "How is self-attention used in the Transformer encoder?",
+    "method": "BM25",
+    "retrieved_count": 10,
+    "sources": [
+      "attention_paper.pdf | page 2",
+      "vision_transformer.pdf | page 19",
+      "vision_transformer.pdf | page 0",
+      "attention_paper.pdf | page 4",
+      "vision_transformer.pdf | page 3",
+      "vision_transformer.pdf | page 2",
+      "attention_paper.pdf | page 5",
+      "Taxi | page 1",
+      "Chinese herbology | page 1",
+      "vision_transformer.pdf | page 8"
+    ]
+  },
+  {
+    "question": "How is self-attention used in the Transformer encoder?",
+    "method": "Hybrid Search",
+    "retrieved_count": 12,
+    "sources": [
+      "attention_paper.pdf | page 2",
+      "vision_transformer.pdf | page 19",
+      "vision_transformer.pdf | page 0",
+      "attention_paper.pdf | page 1",
+      "vision_transformer.pdf | page 7",
+      "attention_paper.pdf | page 4",
+      "vision_transformer.pdf | page 3",
+      "vision_transformer.pdf | page 2",
+      "attention_paper.pdf | page 5",
+      "Taxi | page 1",
+      "Chinese herbology | page 1",
+      "vision_transformer.pdf | page 8"
+    ]
+  },
+  {
+    "question": "How is self-attention used in the Transformer encoder?",
+    "method": "Hybrid + Reranking",
+    "retrieved_count": 5,
+    "sources": [
+      "attention_paper.pdf | page 2",
+      "attention_paper.pdf | page 4",
+      "vision_transformer.pdf | page 8",
+      "vision_transformer.pdf | page 2",
+      "attention_paper.pdf | page 5"
+    ]
+  },
+  {
+    "question": "Who won the FIFA World Cup in 1998?",
+    "method": "Vector Search",
+    "retrieved_count": 10,
+    "sources": [
+      "United States women's national soccer team | page 1",
+      "United States women's national soccer team | page 1",
+      "Juventus F.C. | page 1",
+      "Juventus F.C. | page 1",
+      "Ante Roguljic | page 1",
+      "Ante Roguljic | page 1",
+      "Fimleikafélag Hafnarfjarðar | page 1",
+      "Fimleikafélag Hafnarfjarðar | page 1",
+      "Bangladesh national cricket team statistics and records | page 1",
+      "Bangladesh national cricket team statistics and records | page 1"
+    ]
+  },
+  {
+    "question": "Who won the FIFA World Cup in 1998?",
+    "method": "BM25",
+    "retrieved_count": 10,
+    "sources": [
+      "Jock Stein | page 1",
+      "BMO Field | page 1",
+      "United States women's national soccer team | page 1",
+      "Chelsea F.C. | page 1",
+      "Johnny Sauter | page 1",
+      "MLS Cup 2016 | page 1",
+      "Kapil Dev | page 1",
+      "Chicago Cubs | page 1",
+      "Seattle Sounders FC | page 1",
+      "Shane Doan | page 1"
+    ]
+  },
+  {
+    "question": "Who won the FIFA World Cup in 1998?",
+    "method": "Hybrid Search",
+    "retrieved_count": 14,
+    "sources": [
+      "United States women's national soccer team | page 1",
+      "Juventus F.C. | page 1",
+      "Ante Roguljic | page 1",
+      "Fimleikafélag Hafnarfjarðar | page 1",
+      "Bangladesh national cricket team statistics and records | page 1",
+      "Jock Stein | page 1",
+      "BMO Field | page 1",
+      "Chelsea F.C. | page 1",
+      "Johnny Sauter | page 1",
+      "MLS Cup 2016 | page 1",
+      "Kapil Dev | page 1",
+      "Chicago Cubs | page 1",
+      "Seattle Sounders FC | page 1",
+      "Shane Doan | page 1"
+    ]
+  },
+  {
+    "question": "Who won the FIFA World Cup in 1998?",
+    "method": "Hybrid + Reranking",
+    "retrieved_count": 5,
+    "sources": [
+      "United States women's national soccer team | page 1",
+      "Juventus F.C. | page 1",
+      "Chicago Cubs | page 1",
+      "Chelsea F.C. | page 1",
+      "Jock Stein | page 1"
+    ]
+  }
+]
